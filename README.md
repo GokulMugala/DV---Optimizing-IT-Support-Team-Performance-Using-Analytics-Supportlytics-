@@ -106,7 +106,3 @@ Execute notebooks in order:
 ##  Conclusion
 
 Supportlytics converts IT support data into actionable insights, helping teams improve efficiency through analytics and visualization.
-
-
-* ⭐ GitHub with badges + visuals
-* 🎯 Recruiter-focused version (very high impact)
